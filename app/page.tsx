@@ -31,7 +31,7 @@ export default function Home() {
     <main className="min-h-screen bg-[#F8F6F0] text-[#173D30]">
       <audio
   ref={audioRef}
-  src="/music/background.mp3"
+  src="/Music/background.mp3"
   autoPlay
   loop
   preload="auto"
