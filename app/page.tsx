@@ -182,7 +182,7 @@ transition={{ duration: 1, delay: 3.6, ease: "easeOut" }}
   ))}
 
   <Image
-    src="/images/convo1.jpg"
+    src="/images/convo1.JPG"
     alt="Avwopiabro Favour Ada's graduation portrait"
     width={800}
     height={1000}
@@ -382,7 +382,7 @@ transition={{ duration: 1, delay: 3.6, ease: "easeOut" }}
           }`}
         >
           <Image
-            src={`/images/convo${photo}.jpg`}
+            src={`/images/convo${photo}.JPG`}
             alt={`Convocation memory ${photo}`}
             width={1000}
             height={1200}
